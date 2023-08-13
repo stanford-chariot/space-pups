@@ -1,5 +1,6 @@
-![stanford-childrens-health-logo](https://github.com/stanford-chariot/space_pups/assets/31296177/e2c1c445-1cb4-4320-99e5-0368e4b8375d)
+![stanford-childrens-health-logo](https://github.com/stanford-chariot/space-pups/assets/31296177/9b2dac03-0c77-4952-8028-df848b5bdaa6)
 # Space Pups
+
 Space Pups is an interactive game designed for children between 2 - 8 years old.
 
 ## Links

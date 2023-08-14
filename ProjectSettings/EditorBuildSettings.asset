@@ -5,13 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelectSpaceshipScene.unity
     guid: bb003caf2a3ba47db87fc85f1c23ef0d
   m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 50acedab8e23e43799010d93f99ff8ea,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: aaa15f38deb8a40808281a65025f6497, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 605f8f169b52e4ee3b51fd56ed2ab392,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 18a88ae6c99ae4de9ac27ef33a5f29f1,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 833d1f415330f4d97a3f5f9794b79a75,

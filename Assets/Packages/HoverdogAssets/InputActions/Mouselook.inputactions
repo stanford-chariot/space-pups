@@ -1,0 +1,33 @@
+{
+    "name": "Mouselook",
+    "maps": [
+        {
+            "name": "Lookaround",
+            "id": "1bff41eb-9766-4b88-8e20-f7bf8e6c031b",
+            "actions": [
+                {
+                    "name": "Mouselook",
+                    "type": "PassThrough",
+                    "id": "73748a76-b45c-41fa-aae6-60dc4a1419f6",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "573960bc-5e03-49a8-aca5-be4e7ef83679",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouselook",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -57,6 +57,7 @@ sysinfo.txt
 
 # Unity3D Skybox files
 *.cubemap
+/Users/debbieyuen/Documents/Unity/Stanford/space-pups/Assets/Packages/Real Stars Skybox
 
 # Builds
 *.apk

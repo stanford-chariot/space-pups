@@ -12,6 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/SelectSpaceshipScene.unity
     guid: bb003caf2a3ba47db87fc85f1c23ef0d
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c4515b8e7b46d48989472f8fcd1c9fa2,
+      type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 50acedab8e23e43799010d93f99ff8ea,
       type: 2}
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,

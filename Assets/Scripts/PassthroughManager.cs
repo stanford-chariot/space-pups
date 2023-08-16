@@ -23,4 +23,10 @@ public class PassthroughManager : MonoBehaviour
             passthrough.hidden = !passthrough.hidden;
         }
     }
+    
+    // Passthrough Opacity
+    public void SetOpacity(float value)
+    {
+        passthrough.textureOpacity = value;
+    }
 }

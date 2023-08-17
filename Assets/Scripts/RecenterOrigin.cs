@@ -16,15 +16,13 @@ public class RecenterOrigin : MonoBehaviour
         xrOrigin.MoveCameraToWorldLocation(target.position);
         xrOrigin.MatchOriginUpCameraForward(target.up, target.forward);
     }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
     {
-        Recenter();
+        if (recenterButton.action.WasPressedThisFrame())
+        {
+            Recenter();
+        }
     }
 }

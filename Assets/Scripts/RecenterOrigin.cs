@@ -9,7 +9,8 @@ public class RecenterOrigin : MonoBehaviour
     public Transform head;
     public Transform origin;
     public Transform target;
-
+    public OVRInput.Button button;
+    public OVRInput.Controller controller;
     public void Recenter()
     {
         XROrigin xrOrigin = GetComponent<XROrigin>();
@@ -20,9 +21,13 @@ public class RecenterOrigin : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (recenterButton.action.WasPressedThisFrame())
+        if (OVRInput.GetDown(button, controller))
         {
             Recenter();
         }
+        // if (recenterButton.action.WasPressedThisFrame())
+        // {
+        //     Recenter();
+        // }
     }
 }

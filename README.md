@@ -3,7 +3,8 @@
 
 
 <img width="1280" alt="Screenshot 2023-08-27 at 9 01 27 PM" src="https://github.com/stanford-chariot/space-pups/assets/31296177/8b7ec790-d134-4078-8615-e121c9356572">
-![b0ac4de88a8388bad9313790ca6ce74c](https://github.com/stanford-chariot/space-pups/assets/31296177/e3d86336-755d-4394-afc8-a7f9c0e833b2)
+<img width="1280" alt="Oculus" src="https://github.com/stanford-chariot/space-pups/assets/31296177/e3d86336-755d-4394-afc8-a7f9c0e833b2">
+
 
 
 Space Pups is an interactive game designed for children between 2 - 8 years old.

@@ -8,6 +8,7 @@ The message behind Space Pups is to reach for the stars while also enjoying the 
 <img width="1280" alt="Screenshot 2023-08-27 at 9 01 27 PM" src="https://github.com/stanford-chariot/space-pups/assets/31296177/8b7ec790-d134-4078-8615-e121c9356572">
 Above is an image from the Unity Editor. Play the game by moving the up, down, left, and right arrow keys. Space bar to jump. 
 
+
 <img width="1280" alt="Oculus" src="https://github.com/stanford-chariot/space-pups/assets/31296177/e3d86336-755d-4394-afc8-a7f9c0e833b2">
 Above is a screenshot from the Oculus Quest 2. Space Pups also has a passthrough mode. Hit the A button to enable/disable passthrough. Hit the B button to recenter the game horizontally or vertically. 
 
